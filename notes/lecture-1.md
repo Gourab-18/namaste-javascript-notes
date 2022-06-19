@@ -13,6 +13,7 @@ It is an abstract concept that hold info about the env. within the current code 
 * JS is a **synchronous**, **single-threaded** language
   * Synchronous:- One command at a time.
   * Single-threaded:- In a specific synchronous order.
+  * Whenever we have a JS program ,an execution context gets created.
 
 <hr>
 
